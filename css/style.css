@@ -854,7 +854,7 @@ a {
   .modal__portfolio-slider,
 .modal__portfolio {
     max-width: 350px;
-    padding-bottom: 60px;
+    padding-bottom: 30px;
   }
 
   .modal__portfolio-item {
@@ -881,7 +881,7 @@ a {
   }
 
   .modal__portfolio .click__arrow {
-    bottom: 10px;
+    bottom: -20px;
   }
 
   .modal__portfolio .prev {
